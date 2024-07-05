@@ -1,4 +1,4 @@
-# Practica 3. Memorama multijugador con Python Sockets e Hilos.
+# Memorama multijugador con Python Sockets e Hilos.
 ### Elaborado por Trinidad González Alan Isaac.
 #
 ## :computer: Paso 1. Compilar y ejecutar el servidor.py
